@@ -2,4 +2,7 @@ streamlit
 plotly
 pandas
 matplotlib
-
+pandas
+os
+shutil
+json
